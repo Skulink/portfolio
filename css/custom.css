@@ -1,6 +1,20 @@
 body{
-	background-image: url(../img/page_code.jpg);
-	background-repeat: no-repeat;
-	max-width: 100%;
-  	height: auto;
+	background: url(../img/background.png) repeat;
+}
+
+header{
+    background: url("../img/page_code.jpg");
+    height: 180px;
+}
+
+.top-nav{
+    margin-top: 170px!important;
+}
+
+.navbar-grey{
+    color: #302F33!important;
+}
+
+.bg-grey{
+    background-color: #302F33!important;
 }
