@@ -1,15 +1,22 @@
+/******************************************************************************************\
+                                        Images de fond du site
+\******************************************************************************************/
+
 body{
-	background: url(../img/background.png) repeat;
+	background: url(../img/background.png) repeat fixed;
+    font-family: 'Comfortaa', cursive!important;
 }
+
 
 header{
     background: url("../img/page_code.jpg");
     height: 180px;
 }
 
-.top-nav{
-    margin-top: 170px!important;
-}
+
+/******************************************************************************************\
+                                        Barre de navigation
+\******************************************************************************************/
 
 .navbar-grey{
     color: #302F33!important;
@@ -17,4 +24,43 @@ header{
 
 .bg-grey{
     background-color: #302F33!important;
+}
+
+.btn-width{
+    width: 15rem;
+}
+
+.btn-border{
+    border-color: #302F33!important;;
+}
+
+.custom-toggler.navbar-toggler {
+    border-color: white;
+}
+.custom-toggler .navbar-toggler-icon {
+    background-image: url("../img/toggler.png");
+}
+
+/******************************************************************************************\
+                                       Entete
+\******************************************************************************************/
+.text-custom{
+    color: #D5DEDD;
+}
+
+/******************************************************************************************\
+                                     Container Default
+\******************************************************************************************/
+.b-shadow{
+    box-shadow: 10px 15px 5px #1B1B1C;
+}
+
+.bg-custom{
+    background-color: #D5DEDD;
+}
+
+.border-custom{
+    -webkit-border-radius: 5rem;
+    -moz-border-radius: 5rem;
+    border-radius: 5rem;
 }
