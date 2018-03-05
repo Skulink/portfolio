@@ -2,34 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a248a7d3-7699-40af-96d8-1ff9b1ff62f6" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/css/bootstrap/bootstrap-grid.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/css/bootstrap/bootstrap-grid.css.map" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/css/bootstrap/bootstrap-grid.min.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/css/bootstrap/bootstrap-grid.min.css.map" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/css/bootstrap/bootstrap-reboot.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/css/bootstrap/bootstrap-reboot.css.map" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/css/bootstrap/bootstrap-reboot.min.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/css/bootstrap/bootstrap-reboot.min.css.map" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/css/bootstrap/bootstrap.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/css/bootstrap/bootstrap.css.map" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/css/bootstrap/bootstrap.min.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/css/bootstrap/bootstrap.min.css.map" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/css/custom.css" afterPath="$PROJECT_DIR$/css/custom.css" />
-      <change beforePath="$PROJECT_DIR$/css/font_awesome/fa-svg-with-js.css" afterPath="" />
       <change beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change beforePath="$PROJECT_DIR$/js/font_awesome/fa-brands.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/js/font_awesome/fa-brands.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/js/font_awesome/fa-regular.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/js/font_awesome/fa-regular.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/js/font_awesome/fa-solid.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/js/font_awesome/fa-solid.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/js/font_awesome/fa-v4-shims.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/js/font_awesome/fa-v4-shims.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/js/font_awesome/fontawesome-all.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/js/font_awesome/fontawesome-all.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/js/font_awesome/fontawesome.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/js/font_awesome/fontawesome.min.js" afterPath="" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -43,8 +16,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="403">
-              <caret line="208" column="38" lean-forward="true" selection-start-line="208" selection-start-column="38" selection-end-line="208" selection-end-column="38" />
+            <state relative-caret-position="288">
+              <caret line="212" column="69" lean-forward="true" selection-start-line="212" selection-start-column="69" selection-end-line="212" selection-end-column="69" />
               <folding />
             </state>
           </provider>
@@ -170,12 +143,12 @@
       <workItem from="1520164024235" duration="9302000" />
       <workItem from="1520199387039" duration="22000" />
       <workItem from="1520199676094" duration="9000" />
-      <workItem from="1520257859299" duration="26327000" />
+      <workItem from="1520257859299" duration="26511000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="37576000" />
+    <option name="totallyTimeSpent" value="37760000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -410,8 +383,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="403">
-          <caret line="208" column="38" lean-forward="true" selection-start-line="208" selection-start-column="38" selection-end-line="208" selection-end-column="38" />
+        <state relative-caret-position="288">
+          <caret line="212" column="69" lean-forward="true" selection-start-line="212" selection-start-column="69" selection-end-line="212" selection-end-column="69" />
           <folding />
         </state>
       </provider>
